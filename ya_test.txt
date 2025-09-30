@@ -1,6 +1,6 @@
 1. Открыть страницу https://demoqa.com/text-box
 2. Заполнить форму данными:
-Full Name: "Иван Петроsjj1йв"
+Full Name: "Иван Петроs1йв"
 Email: "ivan.petrov@example.com"
 Current Address: "Москва, ул. Примерная, д. 1"
 Permanent Address: "Санкт-Петербург, ул. Тестовая, д. 2"
